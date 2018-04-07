@@ -1,0 +1,13 @@
+body{
+  background-color: pink;
+  font-family: 'Poor Story', cursive;
+}
+
+#graph-display {
+  background-color: #f5f5f5;
+  border-radius: 25px;    
+}
+
+#outliers{
+  display: none;
+}
